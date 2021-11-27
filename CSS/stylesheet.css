@@ -1,0 +1,22 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%
+}
+
+h1 {
+	margin-top: 20px;
+	margin-bottom: 0px
+}
+
+#FurtherReading a {
+	margin-left: 3%;
+}
+
+#Citations a {
+	margin-left: 3%;
+}
+
+#EditHistory {
+	font-size: 10px;
+	font-style: italic;
+}
